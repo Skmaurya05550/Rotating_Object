@@ -15,7 +15,9 @@ This project demonstrates a simple rotating animation of a **Yin-Yang** symbol u
 You can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/your-repository-url
+git clone https://github.com/https://github.com/Skmaurya05550/Rotating_Object
+
+
 
 
 
